@@ -9,3 +9,4 @@ Aquí estoy intentando aprender a usar GitHub, en éste caso creando una nueva r
 Al aceptar tu invitación me da Push access a tu repositorio o sea que puedo modificar.
 
 Modificación desde VSCode
+
