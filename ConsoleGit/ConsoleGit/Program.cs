@@ -8,7 +8,7 @@ namespace ConsoleGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola munda");
+            Console.WriteLine("Hola mundo");
             Console.ReadKey();
         }
     }
