@@ -1,7 +1,7 @@
 # hello-world
 Just another repository. Un repositorio de prueba.
 
-Hola gente...
+Hola gente... ¿Cómo están?
 
 Aquí estoy intentando aprender a usar GitHub, en éste caso creando una nueva rama.
 
