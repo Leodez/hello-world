@@ -10,5 +10,5 @@ Al aceptar tu invitación me da Push access a tu repositorio o sea que puedo mod
 
 Modificación desde VSCode
 
-04/Ene/2019: (Viernes)
-También modificamos desde Visual Studio
+04/Ene/2019:
+También modificamos desde Visual Studio - Community
