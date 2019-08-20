@@ -15,3 +15,7 @@ También modificamos desde Visual Studio - Community de la mente
 
 20/08/2019 11:13:
 Estoy realizando cambios en la rama "master" mientras tengo otra rama activa dónde he creado un nuevo archivo que aquí en la master no existe. El siguiente paso será actualizar la rama secundria con este cambio del archivo readme que estoy haciendo en "master"
+
+20/08/2019 11:25
+Exclente ahora estoy en la rama nueva y me trajo los cambios del Readme desde la rama master. Tuve que cambiar la rama de origen y destino porque me las ofreció al revés, es decir para enviar desde la rama nueva a la master, di vuelta eso y me traje los cambio de master, pero aquí sigo teniendo el archivo nuevo creado, así que ahora voy a actualizar la rama master...
+
